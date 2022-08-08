@@ -7,6 +7,7 @@
 + express
 + ejs
 + ts-node
++ @types/express
 ```
 
 ### How to start the project? :
